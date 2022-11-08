@@ -1,2 +1,2 @@
-# crawler
-爬取推特用户中media部分里的图片
+# yande
+爬取yande网站里的图片
